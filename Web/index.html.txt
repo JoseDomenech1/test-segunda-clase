@@ -2,11 +2,12 @@
 <html lang="es">
 <head>
 <meta charset="UTF-8">
-<title>Mi web</title>
+<title>Aprendiedno Git</title>
 <link rel="index.html" href="estilos.css">
 </head>
 <body>
 <h1>Mi primera página</h1>
 <p>Esta página forma parte de mis prácticas de Git.</p>
+<p>Hoy vamos a aprender a usar Git.</p>
 </body>
 </html>
