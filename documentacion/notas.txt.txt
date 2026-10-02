@@ -1,0 +1,7 @@
+He aprendido esto
+
+git add
+
+git push 
+
+git commit -m
